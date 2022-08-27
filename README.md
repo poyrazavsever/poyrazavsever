@@ -1,4 +1,4 @@
-<img src="https://photos.google.com/search/_tra_/photo/AF1QipNKbggAf0SukeU8Q3vs88pBQDnpOSiP5-o0Foho">
+<img src="https://i.hizliresim.com/gp97jko.png">
 
 <h1 align="center">Hi 👋, I'm Poyraz Avsever</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
