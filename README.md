@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Poyraz Avsever!</h1>
-<h2>About Me </h2>
-<a align="left" href="https://www.pavsever.com" target="_blank"> <img src="https://github.com/poyrazavsever/poyrazavsever/blob/main/Group%2023.png" align="left" width="126" height="145"/> </a>
 
-<br />
+<a align="left" href="https://www.pavsever.com" target="_blank"> <img src="https://github.com/poyrazavsever/poyrazavsever/blob/main/Group%2023.png" align="left" width="200" height="231"/> </a>
+
+<h2>About Me </h2>
 
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
