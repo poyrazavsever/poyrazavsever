@@ -1,12 +1,10 @@
 <h1 align="center">Hey, I'm Poyraz Avsever!</h1>
 <h2>About Me </h2>
-<a href="https://www.pavsever.com" target="_blank"> <img align="left" src="https://github.com/poyrazavsever/poyrazavsever/blob/main/Group%2023.png" /> </a>
+<a align="left" href="https://www.pavsever.com" target="_blank"> <img src="https://github.com/poyrazavsever/poyrazavsever/blob/main/Group%2023.png" align="left" width="96" height="96"/> </a>
 
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on [İnstagram Web Clone](https://react-firebase-instagram-web-clone-21u9.vercel.app/)
-
-- 👨‍💻 My Web Site is [https://www.pavsever.com](https://www.pavsever.com)
 
 - 📫 How to reach me **poyrazavsever@gmail.com**
 
