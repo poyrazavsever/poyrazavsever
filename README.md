@@ -1,8 +1,5 @@
 <h1 align="center">Hey, I'm Poyraz Avsever!</h1>
 
-<h2> Click the picture to know me </h2>
-
-<a href="https://www.pavsever.com" target="_blank"> <img src="https://github.com/poyrazavsever/poyrazavsever/blob/main/Group%2023.png" width="200" height="231"/> </a>
 
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
