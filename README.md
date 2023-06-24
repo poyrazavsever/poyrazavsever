@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 My Web Site is [https://www.pavsever.com](https://www.pavsever.com)
+- 👨‍💻 My Web Site is [https://www.pavsever.com](https://www.poyrazavsever.com)
 
 - 💬 Ask me about **React and javascript**
 
