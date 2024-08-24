@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/poyraz-avsever/" target="_blank">
+  <a href="linkhttps://www.linkedin.com/in/poyraz-avsever/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/pavori_" target="_blank">
@@ -79,6 +79,8 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white&style=for-the-badge" height="40" alt="pug logo"  />
 </div>
 
 ###
