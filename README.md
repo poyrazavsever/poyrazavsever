@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<img align="right" height="158" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN2dGsyaXloeGE4dGplN3ZpeWlwb3cwN2MwZ2Ezajd0Zzd0ZjI1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FUT75miVgVKE/giphy.webp"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/3e/da/09/3eda09f81df8706e6588df9f9b578a66.gif"  />
 
 ###
 
@@ -81,6 +81,10 @@
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white&style=for-the-badge" height="40" alt="pug logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=black&style=for-the-badge" height="40" alt="sequelize logo"  />
 </div>
 
 ###
