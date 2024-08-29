@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/poyraz-avsever-252408233/" target="_blank">
+  <a href="https://www.linkedin.com/in/poyraz-avsever/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/pavori_" target="_blank">
@@ -26,12 +26,6 @@
 ###
 
 <h3 align="left">Technologies I Use</h3>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/3e/da/09/3eda09f81df8706e6588df9f9b578a66.gif"  />
 
 ###
 
@@ -101,5 +95,25 @@
   <img src="https://streak-stats.demolab.com?user=poyrazavsever&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=1&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=poyrazavsever&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">Sukuna</h3>
+
+###
+
+<br clear="both">
+
+<img align="left" height="150" src="https://i.pinimg.com/originals/3e/da/09/3eda09f81df8706e6588df9f9b578a66.gif"  />
+
+###
+
+<img align="left" height="150" src="https://giffiles.alphacoders.com/221/221971.gif"  />
+
+###
+
+<img align="left" height="150" src="https://i.pinimg.com/originals/80/f8/95/80f895b617d382d4b2b30670c0f5cfc3.gif"  />
 
 ###
