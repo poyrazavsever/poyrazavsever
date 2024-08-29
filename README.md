@@ -99,21 +99,3 @@
 ###
 
 <br clear="both">
-
-<h3 align="left">Sukuna</h3>
-
-###
-
-<br clear="both">
-
-<img align="left" height="150" src="https://i.pinimg.com/originals/3e/da/09/3eda09f81df8706e6588df9f9b578a66.gif"  />
-
-###
-
-<img align="left" height="150" src="https://giffiles.alphacoders.com/221/221971.gif"  />
-
-###
-
-<img align="left" height="150" src="https://i.pinimg.com/originals/80/f8/95/80f895b617d382d4b2b30670c0f5cfc3.gif"  />
-
-###
