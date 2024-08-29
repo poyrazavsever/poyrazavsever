@@ -2,14 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/poyrazavsever/count.svg?"  />
-</div>
-
-###
-
 <h3 align="left">Social Media</h3>
 
 ###
