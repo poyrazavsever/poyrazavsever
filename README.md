@@ -65,5 +65,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poyrazavsever&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph" />
     <img src="https://streak-stats.demolab.com?user=poyrazavsever&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=1&order=3" height="150" alt="streak graph" />
   </div>
-
-<style>
