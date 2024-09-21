@@ -57,6 +57,7 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="24" alt="amazonwebservices logo"  />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" height="24" alt="svelte logo"  />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="24" alt="mongodb logo"  />
+  <img src="https://img.shields.io/badge/C Sharp-500b78?logo=c#&logoColor=white&style=for-the-badge" height="24" alt="csharp logo"  />
   </div>
 
 <h5 align="left">Stats</h5>
