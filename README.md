@@ -6,7 +6,7 @@
 
 <h5 align="left">Social Media</h5>
 
-<div align="left">
+<div align="left" >
   <a href="https://www.linkedin.com/in/poyraz-avsever/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
