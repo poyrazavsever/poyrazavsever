@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/poyrazavsever/poyrazavsever/refs/heads/main/Pink%20Gradient%20Header%20Banner.png" alt="Banner"/>
-
 <h3 align="left">Hi, I'm Poyraz</h3>
 <p>I am Poyraz. I have been interested in UI/UX design and frontend development for 2.5 years. I use React and Tailwind in frontend development. If you'd like to talk to me about something; <a href="mailto:poyrazavsever@gmail.com">Get in touch</a></p>
 
