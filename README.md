@@ -84,6 +84,20 @@
 
 ###
 
+<h5 align="left">UI/UX</h5>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="24" alt="figma logo"  />
+  <img src="https://img.shields.io/badge/Sketch-F7B500?logo=sketch&logoColor=black&style=for-the-badge" height="24" alt="sketch logo"  />
+  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=black&style=for-the-badge" height="24" alt="xd logo"  />
+  <img src="https://img.shields.io/badge/Webflow-4353FF?logo=webflow&logoColor=white&style=for-the-badge" height="24" alt="webflow logo"  />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="24" alt="photoshop logo"  />
+</div>
+
+###
+
 <h5 align="left">Others</h5>
 
 ###
