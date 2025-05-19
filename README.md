@@ -1,119 +1,164 @@
 <h3 align="left">Hi, I'm Poyraz</h3>
-<p>I am Poyraz. I have been interested in UI/UX design and frontend development. I use Nextjs and Tailwind in frontend development. If you'd like to talk to me about something; <a href="mailto:poyrazavsever@gmail.com">Get in touch</a></p>
 
+###
 
-<h5 align="left">Social Media</h5>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=poyrazavsever.poyrazavsever&left_color=firebrick&right_color=darkred"  />
+</div>
 
-<div align="left" >
+###
+
+<h4 align="left">Links</h4>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/poyrazavsever/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="24"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/pavori_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="24"/>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
   </a>
   <a href="https://medium.com/@poyrazavsever" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="24"/>
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="medium logo"  />
+  </a>
+  <a href="https://www.behance.net/slayeras" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="behance logo"  />
   </a>
   <a href="https://www.youtube.com/@poyrazavsever" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="24"/>
-  </a>
- <a href="https://www.pavsever.com" target="_blank">
-    <img src="https://img.shields.io/badge/pavsever.com-000000?style=for-the-badge" alt="YouTube" height="24"/>
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="youtube logo"  />
   </a>
 </div>
 
+###
 
-<h5 align="left">Languages</h5>
+<h4 align="left">Languages</h4>
 
 ###
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="24" alt="python logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="24" alt="javascript logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="24" alt="typescript logo"  />
 </div>
 
 ###
 
-<h5 align="left">Frontend</h5>
+<h4 align="left">Frontend</h4>
 
 ###
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="24" alt="html5 logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="24" alt="css3 logo"  />
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="24" alt="sass logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="24" alt="tailwindcss logo"  />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="24" alt="bootstrap logo"  />
-  <img src="https://img.shields.io/badge/Bulma-00D1B2?logo=bulma&logoColor=black&style=for-the-badge" height="24" alt="bulma logo"  />
-  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="24" alt="materialui logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="24" alt="sass logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="24" alt="react logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="24" alt="nextjs logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="24" alt="vuejs logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt&logoColor=black&style=for-the-badge" height="24" alt="nuxtjs logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="24" alt="materialui logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Bulma-00D1B2?logo=bulma&logoColor=black&style=for-the-badge" height="24" alt="bulma logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" height="24" alt="svelte logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="24" alt="redux logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white&style=for-the-badge" height="24" alt="pug logo"  />
 </div>
 
 ###
 
-<h5 align="left">Backend</h5>
+<h4 align="left">Backend</h4>
 
 ###
 
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="24" alt="nodejs logo"  />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="24" alt="nestjs logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="24" alt="express logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="24" alt="nestjs logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="24" alt="fastapi logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="24" alt="flask logo"  />
 </div>
 
 ###
 
-<h5 align="left">Database</h5>
+<h4 align="left">Database</h4>
 
 ###
 
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="24" alt="mysql logo"  />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="24" alt="mongodb logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="24" alt="sqlite logo"  />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=black&style=for-the-badge" height="24" alt="sequelize logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="24" alt="mongodb logo"  />
 </div>
 
 ###
 
-<h5 align="left">UI/UX</h5>
+<h4 align="left">DevOps</h4>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="24" alt="figma logo"  />
-  <img src="https://img.shields.io/badge/Sketch-F7B500?logo=sketch&logoColor=black&style=for-the-badge" height="24" alt="sketch logo"  />
-  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=black&style=for-the-badge" height="24" alt="xd logo"  />
-  <img src="https://img.shields.io/badge/Webflow-4353FF?logo=webflow&logoColor=white&style=for-the-badge" height="24" alt="webflow logo"  />
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="24" alt="photoshop logo"  />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="24" alt="docker logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="24" alt="vercel logo"  />
 </div>
 
 ###
 
-<h5 align="left">Others</h5>
+<h4 align="left">DevOps</h4>
 
 ###
 
 <div align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="24" alt="github logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="24" alt="git logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="24" alt="gitlab logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="24" alt="figma logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Sketch-F7B500?logo=sketch&logoColor=black&style=for-the-badge" height="24" alt="sketch logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=black&style=for-the-badge" height="24" alt="xd logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="24" alt="adobephotoshop logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="24" alt="npm logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="24" alt="vscode logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="24" alt="visualstudio logo"  />
 </div>
 
 ###
 
-<h5 align="left">Stats</h5>
+<h4 align="left">Stats</h4>
+
+###
+
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=poyrazavsever&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poyrazavsever&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=poyrazavsever&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poyrazavsever&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
