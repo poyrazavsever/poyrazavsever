@@ -124,7 +124,7 @@
 
 ###
 
-<h4 align="left">DevOps</h4>
+<h4 align="left">Others</h4>
 
 ###
 
