@@ -36,9 +36,7 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"  />
 </div>
 
@@ -50,29 +48,17 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="36" alt="sass logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="36" alt="materialui logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="nextjs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="36" alt="vuejs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="36" alt="nuxtjs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=svelte" height="36" alt="svelte logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="36" alt="redux logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=pug" height="36" alt="pug logo"  />
 </div>
 
@@ -84,13 +70,9 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="36" alt="nestjs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="36" alt="flask logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="36" alt="fastapi logo"  />
 </div>
 
@@ -102,9 +84,7 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo"  />
 </div>
 
@@ -116,7 +96,6 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="36" alt="vercel logo"  />
 </div>
 
@@ -128,21 +107,13 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="36" alt="gitlab logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sketchup" height="36" alt="sketch logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="36" alt="xd logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="36" alt="adobephotoshop logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="36" alt="visualstudio logo"  />
 </div>
 
