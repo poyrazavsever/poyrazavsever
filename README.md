@@ -65,85 +65,18 @@ Merhaba, ben Poyraz. Küçük yaşlardan beri dijital ürünlerin nasıl çalı�
 <details close>
 <summary><h3>Kullandığım Teknolojiler</h3></summary>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ts" height="32" />
-</div>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=css" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=sass" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vue" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=redux" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=pug" height="32" />
-</div>
+*(Bütüm ikonlar [skillicons.dev](https://skillicons.dev)'dan alınmıştır)*
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="32" />
-</div>
+#### Programlama Dilleri & Frontend
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,bootstrap,materialui,react,nextjs,vue,nuxtjs,svelte,redux,pug" height="32" />
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=sketchup" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=xd" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ps" height="32" />
-</div>
+#### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,firebase,supabase,sqlite,mysql,mongodb" height="32" />
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vercel" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="32" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="32" />
-</div>
+#### Araçlar & Platformlar
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,sketchup,vercel,git,gitlab,github,vscode,visualstudio" height="32" />
+
 
 </details>
 
