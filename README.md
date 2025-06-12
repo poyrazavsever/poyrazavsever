@@ -1,5 +1,12 @@
 <h1 align="left">👋 Merhaba, ben Poyraz</h1>
 
+<p align="left">
+  <a href="./README-EN.md">
+    <img src="https://img.shields.io/badge/View%20in%20Engilish-0f9d58?style=for-the-badge&logo=googletranslate&logoColor=white" height="28" />
+  </a>
+</p>
+
+
 <details close>
 <summary><h3>Tanıtım</h3></summary>
 
