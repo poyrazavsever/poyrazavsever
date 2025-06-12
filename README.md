@@ -66,7 +66,7 @@ Merhaba, ben Poyraz. Küçük yaşlardan beri dijital ürünlerin nasıl çalı�
 <summary><h3>Kullandığım Teknolojiler</h3></summary>
 
 
-*(Bütüm ikonlar [skillicons.dev](https://skillicons.dev)'dan alınmıştır)*
+*(Bütün ikonlar [skillicons.dev](https://skillicons.dev)'dan alınmıştır)*
 
 #### Programlama Dilleri & Frontend
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,bootstrap,materialui,react,nextjs,vue,nuxtjs,svelte,redux,pug" height="32" />
