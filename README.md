@@ -82,18 +82,6 @@ Merhaba, ben Poyraz. Küçük yaşlardan beri dijital ürünlerin nasıl çalı�
 
 ---
 
-<details close>
-<summary><h3>Şu Anda Öğrendiklerim</h3></summary>
-
-- Web performans optimizasyonu üzerine çalışıyorum  
-- UI micro-interactions (Framer Motion, GSAP) ile kullanıcı deneyimini güçlendiriyorum  
-- .NET ile backend geliştirme ve RESTful API mimarilerini keşfediyorum  
-- Yapay zekâ ajanları (AI agents) ile etkileşimli sistemler geliştiriyorum (LangChain, AutoGen, OpenAI SDK gibi araçlarla)
-
-</details>
-
----
-
 <details>
 <summary><h3>GitHub İstatistiklerimi Gör</h3></summary>
 
