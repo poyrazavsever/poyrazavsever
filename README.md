@@ -42,14 +42,14 @@ Merhaba, ben Poyraz. Küçük yaşlardan beri dijital ürünlerin nasıl çalı�
   <a href="https://medium.com/@poyrazavsever" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="24" />
   </a>
-  <a href="https://www.pavsever.com/" target="_blank">
+  <a href="https://www.poyrazavsever.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-0f9d58?style=for-the-badge&logo=google-chrome&logoColor=white" height="24" />
   </a>
-  <a href="https://www.instagram.com/patitekno/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram%20(Patitekno)-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24" />
+  <a href="https://www.instagram.com/poyraz_avsever/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram%20(Poyraz Avsever)-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24" />
   </a>
-  <a href="http://youtube.com/@patitekno" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube%20(Patitekno)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="24" />
+  <a href="http://youtube.com/@poyrazavsever" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube%20(Poyraz Avsever)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="24" />
   </a>
   <a href="https://www.behance.net/slayeras" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" height="24" />
