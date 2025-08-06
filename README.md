@@ -6,6 +6,7 @@
   </a>
 </p>
 
+<img src="https://raw.githubusercontent.com/poyrazavsever/poyrazavsever/refs/heads/main/poyrazavsever.com.png"/>
 
 <details close>
 <summary><h3>Tanıtım</h3></summary>
