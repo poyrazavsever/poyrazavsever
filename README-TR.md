@@ -20,7 +20,7 @@ Modern arayüzler ve dijital deneyimlerin tasarımcısı & geliştiricisiyim. Ta
     <img src="https://img.shields.io/badge/Freelance-111111?style=for-the-badge" height="28" />
   </a>
   <a href="./README.md">
-    <img src="https://img.shields.io/badge/View%20In%Engilish-111111?style=for-the-badge" height="28" />
+    <img src="https://img.shields.io/badge/View%In%Engilish-111111?style=for-the-badge" height="28" />
   </a>
 </p>
 
