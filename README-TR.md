@@ -11,16 +11,16 @@ Modern arayüzler ve dijital deneyimlerin tasarımcısı & geliştiricisiyim. Ta
 
 <p align="center">
   <a href="https://ui.poyrazavsever.com">
-    <img src="https://img.shields.io/badge/UI--Kit-111111?style=for-the-badge" height="28" />
+    <img src="https://img.shields.io/badge/UI--Kit-white?style=for-the-badge" height="28" />
   </a>
   <a href="https://status.poyrazavsever.com">
-    <img src="https://img.shields.io/badge/Durum-111111?style=for-the-badge" height="28" />
+    <img src="https://img.shields.io/badge/Durum-white?style=for-the-badge" height="28" />
   </a>
   <a href="https://freelance.poyrazavsever.com">
-    <img src="https://img.shields.io/badge/Freelance-111111?style=for-the-badge" height="28" />
+    <img src="https://img.shields.io/badge/Freelance-white?style=for-the-badge" height="28" />
   </a>
   <a href="./README.md">
-    <img src="https://img.shields.io/badge/View%20in%20English-111111?style=for-the-badge" height="28" />
+    <img src="https://img.shields.io/badge/View%20in%20English-white?style=for-the-badge" height="28" />
   </a>
 </p>
 
@@ -50,34 +50,34 @@ Merhaba, ben Poyraz. Çocukluğumdan beri dijital ürünlerin nasıl çalıştı
 
 **Profesyonel**  
 <a href="https://www.linkedin.com/in/poyrazavsever/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24" />
 </a>
 <a href="https://www.behance.net/slayeras" target="_blank">
-<img src="https://img.shields.io/badge/Behance-111111?style=for-the-badge&logo=behance&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" height="24" />
 </a>
 <a href="https://www.poyrazavsever.com/" target="_blank">
-<img src="https://img.shields.io/badge/Web%20Sitesi-111111?style=for-the-badge&logo=google-chrome&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/Web%20Sitesi-0f9d58?style=for-the-badge&logo=google-chrome&logoColor=white" height="24" />
 </a>
 
 **İçerik & Blog**  
 <a href="https://medium.com/@poyrazavsever" target="_blank">
-<img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="24" />
 </a>
 <a href="http://youtube.com/@poyrazavsever" target="_blank">
-<img src="https://img.shields.io/badge/YouTube%20(Poyraz%20Avsever)-111111?style=for-the-badge&logo=youtube&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/YouTube%20(Poyraz%20Avsever)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="24" />
 </a>
 <a href="https://www.instagram.com/poyraz_avsever/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram%20(Poyraz%20Avsever)-111111?style=for-the-badge&logo=instagram&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/Instagram%20(Poyraz%20Avsever)-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24" />
 </a>
 
 **Sosyal**  
 <a href="https://www.instagram.com/pavori_/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram%20(Pavori)-111111?style=for-the-badge&logo=instagram&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/Instagram%20(Pavori)-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24" />
 </a>
 
 **Destek**  
 <a href="https://www.buymeacoffee.com/poyrazavsever" target="_blank">
-<img src="https://img.shields.io/badge/Bana%20Kahve%20Ismarla-111111?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/Bana%20Kahve%20Ismarla-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="24" />
 </a>
 
 </details>
