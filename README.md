@@ -52,10 +52,8 @@ Hi, I'm Poyraz. Since childhood, I've been curious about how digital products wo
 <a href="https://www.linkedin.com/in/poyrazavsever/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24" />
 </a>
-
 <a href="https://www.behance.net/poyrazavsever" target="_blank">
-<img src="https://img.shields.io/badge/Behance-111111?style=for-the-badge&logo=behance&logoColor=white" height="24" />
-
+<img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" height="24" />
 </a>
 <a href="https://www.poyrazavsever.com/" target="_blank">
 <img src="https://img.shields.io/badge/Website-0f9d58?style=for-the-badge&logo=google-chrome&logoColor=white" height="24" />
