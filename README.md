@@ -84,6 +84,27 @@ Hi, I'm Poyraz. Since childhood, I've been curious about how digital products wo
 
 ---
 
+<details close>
+<summary><h3>Technologies I Use</h3></summary>
+
+_(All icons from [skillicons.dev](https://skillicons.dev))_
+
+#### Languages & Frontend
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,bootstrap,materialui,react,nextjs,vue,nuxtjs,svelte,redux,pug" height="32" />
+
+#### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,firebase,supabase,sqlite,mysql,mongodb" height="32" />
+
+#### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,sketchup,vercel,git,gitlab,github,vscode,visualstudio" height="32" />
+
+</details>
+
+---
+
 <details>
 <summary><h3>See My Stats</h3></summary>
 

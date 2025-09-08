@@ -111,6 +111,27 @@ Merhaba, ben Poyraz. Çocukluğumdan beri dijital ürünlerin nasıl çalıştı
 ---
 
 <details close>
+<summary><h3>Kullandığım Teknolojiler</h3></summary>
+
+_(Bütün ikonlar [skillicons.dev](https://skillicons.dev)'dan alınmıştır)_
+
+#### Programlama Dilleri & Frontend
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,bootstrap,materialui,react,nextjs,vue,nuxtjs,svelte,redux,pug" height="32" />
+
+#### Backend & Veritabanları
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,firebase,supabase,sqlite,mysql,mongodb" height="32" />
+
+#### Araçlar & Platformlar
+
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,sketchup,vercel,git,gitlab,github,vscode,visualstudio" height="32" />
+
+</details>
+
+---
+
+<details close>
 <summary><h3>Benimle İletişime Geç</h3></summary>
 
 İş birlikleri, sorular veya sadece samimi bir sohbet için bana ulaşmaktan çekinmeyin!  
