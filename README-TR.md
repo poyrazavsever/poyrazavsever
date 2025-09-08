@@ -52,7 +52,7 @@ Merhaba, ben Poyraz. Çocukluğumdan beri dijital ürünlerin nasıl çalıştı
 <a href="https://www.linkedin.com/in/poyrazavsever/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" height="24" />
 </a>
-<a href="https://www.behance.net/slayeras" target="_blank">
+<a href="https://www.behance.net/poyrazavsever" target="_blank">
 <img src="https://img.shields.io/badge/Behance-111111?style=for-the-badge&logo=behance&logoColor=white" height="24" />
 </a>
 <a href="https://www.poyrazavsever.com/" target="_blank">
