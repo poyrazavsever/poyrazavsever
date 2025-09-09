@@ -71,7 +71,7 @@ Merhaba, ben Poyraz. Çocukluğumdan beri dijital ürünlerin nasıl çalıştı
 </a>
 
 **Sosyal**  
-<a href="https://www.instagram.com/pavori_/" target="_blank">
+<a href="https://www.instagram.com/poyraz_ui/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram%20(Pavori)-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24" />
 </a>
 
