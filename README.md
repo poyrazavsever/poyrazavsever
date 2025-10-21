@@ -6,7 +6,8 @@
 <h1 align="center">Hi, I'm Poyraz</h1>
 
 <p align="center">
-Designer & developer of modern interfaces and digital experiences. I focus on design, code, and content creation.
+Designer & developer of modern interfaces and digital experiences.<br/>
+I focus on design, code, and content creation to build scalable, human-centered solutions.
 </p>
 
 <p align="center">
@@ -24,12 +25,15 @@ Designer & developer of modern interfaces and digital experiences. I focus on de
   </a>
 </p>
 
+---
+
 <details close>
 <summary><h3>Introduction</h3></summary>
 
 <p align="left">
-I'm a passionate developer focused on UI/UX design and software development.<br/>
-I especially enjoy building modern and user-centric interfaces using <strong>Next.js</strong> and <strong>Tailwind CSS</strong>.
+I'm a multidisciplinary developer and designer specializing in full-stack development and UI/UX strategy.<br/>
+My work combines design systems, performance optimization, and seamless user experiences — from idea to production.<br/>
+I believe that great interfaces are built on both aesthetic sensitivity and technical precision.
 </p>
 
 </details>
@@ -39,7 +43,15 @@ I especially enjoy building modern and user-centric interfaces using <strong>Nex
 <details close>
 <summary><h3>About Me</h3></summary>
 
-Hi, I'm Poyraz. Since childhood, I've been curious about how digital products work. Today, that curiosity has evolved into crafting software solutions centered around user experience. I enjoy full-stack development, interface design, and digital content creation. I love building, learning, and sharing.
+Hi, I'm **Poyraz Avsever** — a designer, developer, and content creator based in Türkiye.  
+Since childhood, I've been fascinated by how digital experiences shape the world.  
+That curiosity evolved into a career where I design, develop, and deliver scalable interfaces, interactive systems, and modern SaaS platforms.
+
+My primary focus areas include:
+- **UI/UX Design** – creating human-centered, consistent, and aesthetic interfaces  
+- **Frontend Engineering** – building interactive and optimized web apps using Next.js & Tailwind CSS  
+- **Backend Development** – designing scalable APIs with NestJS, Supabase, and PostgreSQL  
+- **Content Creation** – producing educational and creative tech content for YouTube, Medium, and Instagram  
 
 </details>
 
@@ -95,18 +107,18 @@ _(All icons from [skillicons.dev](https://skillicons.dev))_
 
 #### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,firebase,supabase,sqlite,mysql,mongodb" height="32" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,firebase,supabase,sqlite,mysql,postgres,mongodb" height="32" />
 
-#### Tools & Platforms
+#### Tools, Platforms & Design
 
-<img src="https://skillicons.dev/icons?i=figma,xd,ps,sketchup,vercel,git,gitlab,github,vscode,visualstudio" height="32" />
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,sketchup,vercel,git,gitlab,github,vscode,visualstudio,postman" height="32" />
 
 </details>
 
 ---
 
 <details>
-<summary><h3>See My Stats</h3></summary>
+<summary><h3>GitHub & Development Stats</h3></summary>
 
 **General GitHub Activity**  
 <img src="https://github-readme-stats.vercel.app/api?username=poyrazavsever&show_icons=true&theme=city_lights&count_private=true&hide_border=false" height="150" />
@@ -114,18 +126,20 @@ _(All icons from [skillicons.dev](https://skillicons.dev))_
 **Top Languages**  
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poyrazavsever&layout=compact&theme=city_lights&hide_border=false&card_width=320&langs_count=10&custom_title=Top%20Languages" height="150" />
 
-**Commit & Contribution Streak**  
+**Contribution Streaks**  
 <img src="https://streak-stats.demolab.com?user=poyrazavsever&theme=city_lights&hide_border=false&mode=daily" height="150" />
 
-**Detailed Profile Analysis**  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poyrazavsever&theme=github_dark" height="150" />
-
-**Repo-Based Stats**  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poyrazavsever&theme=github_dark" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poyrazavsever&theme=github_dark" height="150" />
-
-**Followers & Stars**  
+**Profile Summary Cards**  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poyrazavsever&theme=github_dark" height="150" />  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poyrazavsever&theme=github_dark" height="150" />  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poyrazavsever&theme=github_dark" height="150" />  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=poyrazavsever&theme=github_dark" height="150" />
+
+**Achievements & Highlights**  
+<img src="https://github-profile-trophy.vercel.app/?username=poyrazavsever&theme=onestar&column=6&margin-w=8&margin-h=8" height="130" />
+
+**Productivity Overview**  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=poyrazavsever&theme=github-dark" height="250" />
 
 </details>
 
@@ -134,12 +148,15 @@ _(All icons from [skillicons.dev](https://skillicons.dev))_
 <details close>
 <summary><h3>Contact Me</h3></summary>
 
-For collaborations, questions, or just a friendly chat, feel free to reach out!  
-📧 poyrazavsever@gmail.com
+For collaborations, projects, or any inquiries:  
+📧 **poyrazavsever@gmail.com**
+
+I’m always open to meaningful collaborations that combine **design**, **technology**, and **storytelling**.  
+Let’s build something remarkable together.
 
 </details>
 
 ---
 
-> ✨ "Design is not just what it looks like and feels like. Design is how it works."  
+> "Design is not just what it looks like and feels like. Design is how it works."  
 > — Charles Eames
