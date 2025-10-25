@@ -1,8 +1,7 @@
-<img src="https://raw.githubusercontent.com/poyrazavsever/poyrazavsever/refs/heads/main/ust2.png" width="100%" height="64"/>
-
 <p align="center">
   <img src="./logo.png" alt="Logo" width="56" height="56" />
   <img src="./avatar.png" alt="Avatar" width="64" height="64" />
+  <img src="./onepiece.png" alt="Avatar" height="64" />
 </p>
 
 <h1 align="center">Hi, I'm Poyraz</h1>
@@ -165,5 +164,5 @@ Let’s build something remarkable together.
 
 <br /> <br/>
 
-<img src="https://raw.githubusercontent.com/poyrazavsever/poyrazavsever/refs/heads/main/alt2.png" width="100%" height="64"/>
+<img src="./alt2.png" width="100%" height="64"/>
 
