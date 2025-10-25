@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/poyrazavsever/poyrazavsever/refs/heads/main/ust2.png" width="100%" height="64"/>
+
 <p align="center">
   <img src="./logo.png" alt="Logo" width="56" height="56" />
   <img src="./avatar.png" alt="Avatar" width="64" height="64" />
@@ -160,3 +162,8 @@ Let’s build something remarkable together.
 
 > "Design is not just what it looks like and feels like. Design is how it works."  
 > — Charles Eames
+
+<br /> <br/>
+
+<img src="https://raw.githubusercontent.com/poyrazavsever/poyrazavsever/refs/heads/main/alt2.png" width="100%" height="64"/>
+
