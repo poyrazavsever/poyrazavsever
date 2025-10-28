@@ -164,5 +164,5 @@ Let’s build something remarkable together.
 
 <br /> <br/>
 
-<img src="./alt2.png" width="100%" height="64"/>
+<img src="./alt3.png" width="100%" height="64"/>
 
