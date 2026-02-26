@@ -1,11 +1,4 @@
 <p align="center">
-  <img src="./logo.png" alt="Logo" width="56" height="56" />
-  <img src="./avatar.png" alt="Avatar" width="64" height="64" />
-</p>
-
-<h1 align="center">Hi, I'm Poyraz</h1>
-
-<p align="center">
 Designer & developer of modern interfaces and digital experiences.<br/>
 I focus on design, code, and content creation to build scalable, human-centered solutions.
 </p>
