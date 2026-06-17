@@ -31,10 +31,6 @@
     <img src="https://img.shields.io/badge/-%20?style=social&logo=behance&logoColor=%231769FF" alt="Behance" />
   </a>
 
-  <a href="https://open.spotify.com/user/poyrazavsever">
-    <img src="https://img.shields.io/badge/-%20?style=social&logo=spotify&logoColor=%231DB954" alt="Spotify" />
-  </a>
-
   <a href="https://buymeacoffee.com/poyrazavsever">
     <img src="https://img.shields.io/badge/-%20?style=social&logo=buymeacoffee&logoColor=%23FFDD00" alt="Buy Me a Coffee" />
   </a>
