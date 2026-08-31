@@ -1,6 +1,6 @@
 <div align="left">
   <a href="https://www.youtube.com/@poyrazavsever">
-    <img src="https://img.shields.io/badge/-%20?style=social&logo=youtube" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-%20?style=social&logo=youtube" alt="Youtube" />
   </a>
 
   <a href="https://instagram.com/poyraz_avsever">
@@ -33,6 +33,10 @@
 
   <a href="https://buymeacoffee.com/poyrazavsever">
     <img src="https://img.shields.io/badge/-%20?style=social&logo=buymeacoffee&logoColor=%23FFDD00" alt="Buy Me a Coffee" />
+  </a>
+
+   <a href="https://git.poyrazavsever.com/poyrazavsever">
+    <img src="https://img.shields.io/badge/-%20?style=social&logo=gitea" alt="Gitea" />
   </a>
 
   <img src="https://img.shields.io/github/stars/poyrazavsever" alt="GitHub Star" />
