@@ -1,4 +1,9 @@
 <div align="left">
+
+  <a href="https://yazilimadair.substack.com/">
+    <img src="https://img.shields.io/badge/-%20?style=social&logo=substack" alt="Substack" />
+  </a>
+  
   <a href="https://www.youtube.com/@poyrazavsever">
     <img src="https://img.shields.io/badge/-%20?style=social&logo=youtube" alt="Youtube" />
   </a>
