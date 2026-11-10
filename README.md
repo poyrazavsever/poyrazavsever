@@ -47,6 +47,6 @@
 
 </div>
 
-</br></br>
+</br>
 
 [![Commit Kingdom](https://api.commitkingdom.com/cards/AbNDadj7cPYzUIhSC3ngYKwe.svg?period=day&style=badge&lang=tr)](https://commitkingdom.com)
