@@ -44,4 +44,6 @@
   </a>
 
   <img src="https://img.shields.io/github/stars/poyrazavsever" alt="GitHub Stars" />
+
+  [![Commit Kingdom](https://api.commitkingdom.com/cards/AbNDadj7cPYzUIhSC3ngYKwe.svg?period=day&style=badge&lang=tr)](https://commitkingdom.com)
 </div>
